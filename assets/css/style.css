@@ -1,0 +1,5 @@
+.card{
+    border: 2px solid gold ;
+    outline: 2px solid rgb(24, 207, 232);
+    text-transform: capitalize;
+}
